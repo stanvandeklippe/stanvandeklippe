@@ -2,4 +2,4 @@
 <a href="https://royalehosting.net/">https://royalehosting.net/</a><br>
 <a href="https://royale-ix.net/">https://royale-ix.net/</a><br>
 
-<p>Providing DDoS protected services.</p>
+<p>Leading hosting company specializing in DDoS protection and connectivity. Protecting your online presence with robust security and ensuring uninterrupted connectivity.</p>
